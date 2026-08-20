@@ -16,5 +16,5 @@ Based on the Schematic I created the PCB design.
 The total dimension of the PCB came out to be 99.552*91.0 mm 
 Using the PCB as base I created the case to enclose the hackpad.
 
-#Firmware
+# Firmware
 For the firmware I used KMK instead of the other popular ones. This decision was mostly because of my comfort in python and ease and simple to write code of KMK.
