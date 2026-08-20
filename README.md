@@ -18,3 +18,24 @@ Using the PCB as base I created the case to enclose the hackpad.
 
 # Firmware
 For the firmware I used KMK instead of the other popular ones. This decision was mostly because of my comfort in python and ease and simple to write code of KMK.
+
+# Final design of the macropad
+
+I used FreeCAD for the design of the macropad's case and it was not fun. I searched tutorials and it only existed for other stuff so I looked at the other stuff's tutorial and applied it to the macropad.
+The final design is well not the best to be frank but I made it myself so I am quite proud of it. 
+<img width="1206" height="737" alt="Screenshot_20260820_234229" src="https://github.com/user-attachments/assets/d1005b8c-28d7-42ef-8cbd-75d9487ef763" />
+<img width="930" height="591" alt="Screenshot_20260820_234255" src="https://github.com/user-attachments/assets/1b4993d4-a79d-400b-931c-709d0e2d6119" />
+<img width="841" height="425" alt="Screenshot_20260820_234352" src="https://github.com/user-attachments/assets/76b1299d-863a-499d-b32d-4c46c7653b00" />
+
+# BOM
+
+Now then here should be everything required to make this yourself:
+
+1. 12× Cherry MX Switches
+2. 12× DSA Keycaps
+3. 12× 1N4148 SOD-123 Diodes
+4. 1× Xiao RP2040
+5. 4× M2 × 6mm SHCS Bolts (Corner Screws)
+6. Case (2 part case Top and Bottom)
+7. Soldering iron + solder
+8. Wire cutters
